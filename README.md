@@ -18,3 +18,4 @@ To get started with this forum, you need to do below things:
   * Once you think issue is sufficiently answered, then you should close the issue.
   * ETA for answering the question may vary based on admins availability. Do not expect immediate resolution. However, you can keep raising chasers in the comments     section by taging the admins. Use @akashdktyagi @sarangholey in the comments section. This triggers a email to us.
   * If the issues are a blocker, then you can raise it in your training's whats app grp or your corresponding trainer might try to solve it quickly.
+  * To check the previous raised issues, you can clear the filter text box and press enter. This will show all the exiting issues. You can also search keywords like    "cucumber" or "null pointer exception" to get the already raised and answered issues.
